@@ -2,4 +2,4 @@
 # sudo chmod +x /usr/local/bin/docker-compose
 # docker-compose --version
 # ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
-cp docker-compose.yml /usr/bin/docker-compose
+cp docker-compose.yml /bin/docker-compose
